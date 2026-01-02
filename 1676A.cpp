@@ -1,5 +1,5 @@
 //https://codeforces.com/contest/1676/problem/A
-
+//others solve
 #include<bits/stdc++.h>
 using namespace std;
 int main()
@@ -24,4 +24,5 @@ int main()
         }
 
         
+
 }
